@@ -1,6 +1,6 @@
 #include "basemodel.h"
 #include "baselist.h"
-#include "src/utils/pic.h"
+#include "utils/pic.h"
 
 BaseModel::BaseModel(QObject *parent)
     : QAbstractListModel(parent),

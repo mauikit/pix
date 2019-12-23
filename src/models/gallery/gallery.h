@@ -2,8 +2,8 @@
 #define GALLERY_H
 
 #include <QObject>
-#include "./src/models/baselist.h"
-#include "./src/utils/pic.h"
+#include "models/baselist.h"
+#include "utils/pic.h"
 
 class DBActions;
 class Gallery : public BaseList

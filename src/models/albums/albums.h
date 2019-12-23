@@ -2,7 +2,7 @@
 #define ALBUMS_H
 
 #include <QObject>
-#include "./src/models/baselist.h"
+#include "models/baselist.h"
 
 class DBActions;
 class Albums : public BaseList
