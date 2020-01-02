@@ -43,7 +43,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include <MauiKit/tagging.h>
 #endif
 
-#include ".models/gallery/gallery.h"
+#include "models/gallery/gallery.h"
 //#include "models/cloud/cloud.h"
 #include "models/folders/folders.h"
 
